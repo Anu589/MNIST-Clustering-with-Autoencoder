@@ -16,8 +16,8 @@ This project applies **autoencoders** to compress **MNIST digits** into a **low-
 ##  **Project Structure**  
 ```
  MNIST-Clustering-Autoencoder
-│──  README.md          <- This file  
-│──  mnist_clustering.ipynb  <- Jupyter Notebook  
+│──  README.md         
+│──  mnist_clustering.ipynb   
 ```
 
 ---
